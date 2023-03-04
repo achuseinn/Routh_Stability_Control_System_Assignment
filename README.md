@@ -1,6 +1,6 @@
 # Routh_Stability_Control_System_Assignment
  
-Kode program di atas terdiri dari tiga fungsi utama: calculate_polynomial, create_routh_table, dan is_system_stable.
+Pada dasarnya program ini terdiri dari tiga fungsi utama: calculate_polynomial, create_routh_table, dan is_system_stable.
 
 Fungsi calculate_polynomial digunakan untuk menghitung nilai polinomial untuk nilai s tertentu. Fungsi ini menerima dua parameter: koefisien polinomial dan nilai s. Fungsi ini menggunakan loop untuk menghitung nilai polinomial berdasarkan koefisien dan nilai s yang diberikan.
 
